@@ -1,3 +1,2 @@
 # Rushes:
-
-# Wordle (ft. fgori) 100%
+  #Wordle (ft. fgori) 100%
